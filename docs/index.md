@@ -24,9 +24,9 @@ We are in the era of Artificial Intelligence. Every day we are witnessing the fa
 
 </div>
 
-+ Registration for In-person Participation Deadline: Monday, April 15, 2024.
++ Registration for In-person Participation Deadline: Monday, May 4, 2026.
 
-+ Registration for Virtual Participation Deadline: Friday, April 19, 2024.
++ Registration for Virtual Participation Deadline: Friday, May 8, 2026.
 
 <!-- ---- -->
 
