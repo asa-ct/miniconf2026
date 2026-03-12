@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "The 22nd ASA-CT Mini-Conference"
+title: "The 24th ASA-CT Mini-Conference"
 header: no
 permalink: /index.html
 homepage: true
