@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 header:
-  image: /images/header.png
+  image: /images/logo.png
   caption: 'Welcome to Miniconf 2026'
   overlay_color: rgba(255, 255, 255, 0.6)
 ---
