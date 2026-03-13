@@ -1,12 +1,12 @@
 ---
 layout: page-fullwidth
-title: "The 24th ASA-CT Mini-Conference"
+title: "The 26th ASA-CT Mini-Conference"
 header: no
 permalink: /index.html
 homepage: true
 ---
 
-+ **Date/Time:** Tuesday, April 23, 2024
++ **Date/Time:** Monday, May 11, 2026
 + **Location:** The conference will be hybrid, with in-person sessions held at the Boehringer Ingelheim at Ridgefield, CT and all sessions broadcast live via Zoom.
 
 This annual event is organized by the [Connecticut Chapter of the American Statistical Association](https://community.amstat.org/connecticutchapter/home) (ASA-CT). We aim to 
@@ -24,9 +24,9 @@ We are in the era of Artificial Intelligence. Every day we are witnessing the fa
 
 </div>
 
-+ Registration for In-person Participation Deadline: Monday, April 15, 2024.
++ Registration for In-person Participation Deadline: Monday, May 4, 2026.
 
-+ Registration for Virtual Participation Deadline: Friday, April 19, 2024.
++ Registration for Virtual Participation Deadline: Friday, May 8, 2026.
 
 <!-- ---- -->
 
