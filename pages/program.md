@@ -30,11 +30,10 @@ All times are in EDT.
 + 1:00 pm -- 3:45 pm: Scientific Session II
   - 1:00 pm -- 1:40 pm: <b>Pending</b>
     - Pending
-  - 1:40 pm -- 2:20 pm: Mapping the Mind: Modeling Brain Connectivity and Its Link to Behavior, <a href="../speakers/#speaker6">Yize Zhao, Yale University</a>;
-  - 2:20 pm -- 2:30 pm: Break
-  - 2:30 pm -- 3:10 pm: iPIPE: Bayesian Supervised Learning under Monotonicity with Applications in mHealth and Cancer Screening, <a href="../speakers/#speaker7">Ken Cheung, Columbia University</a>;
-  - 3:10 pm -- 3:50 pm: Clinical Drug Developments: Challenges and Data Science Applications, <a href="../speakers/#speaker8">Dacheng Liu, Boehringer Ingelheim</a>;
+  - 1:40 pm -- 2:20 pm: <b>Meizi Liu, Takeda</b> 
+    - BEAM: Bayesian Hybrid Design With Adaptive Sample Size Through Multisource Exchangeability Modeling 
+  - 2:20 pm -- 3:00 pm: <b>Ming-Hui Chen, University of Connecticut<b>  
+    - Quantifying Prior Information via Kullback-Leibler Divergence: A New Perspective on Effective Sample Size  
++ 3:00 pm – 3:45 pm: Panel discussion on draft FDA guidance <b>“Use of Bayesian Methodology in Clinical Trials of Drug and Biological Products</b>” 
 
-+ 3:50 pm -- 4:15 pm: Discussion, <a>Yi Liu, ASA CT Chapter Secretary</a>
-
-+ 4:15 pm -- 4:30 pm: Closing Remarks: <a>Professor Kun Chen</a>
++ 3:45 pm – 4:00 pm: Closing Remarks: <b>Junxian Geng, ASA CT Chapter Vice President</b>
