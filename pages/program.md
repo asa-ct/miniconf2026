@@ -13,7 +13,7 @@ All times are in EDT.
 
 + 9:00 am -- 9:10 am: Opening Remarks:
   - <b>Birol Emir, ASA CT Chapter President</b> 
-  - Ming-Hui Chen, University of Connecticut 
+  - <b>Ming-Hui Chen, University of Connecticut</b> 
 
 + 9:10 am -- 12:00 pm: Scientific Session I
   - 9:10 am -- 9:50 am: Scaling Insights in Cancer Care with Machine Learning, <a href="../speakers/#speaker1">Will Shapiro, Flatiron Health</a>; 
@@ -24,8 +24,9 @@ All times are in EDT.
 
 + 12:00 pm -– 1:00 pm: Lunch
 
-+ 1:00 pm -- 3:50 pm: Scientific Session II
-  - 1:00 pm -- 1:40 pm: Multimodal Integration in the Age of Million Cells and Billion Parameters, <a href="../speakers/#speaker5">Himel Mallick, Cornell University</a>;
++ 1:00 pm -- 3:45 pm: Scientific Session II
+  - 1:00 pm -- 1:40 pm: <b>Pending</b>
+    - Pending
   - 1:40 pm -- 2:20 pm: Mapping the Mind: Modeling Brain Connectivity and Its Link to Behavior, <a href="../speakers/#speaker6">Yize Zhao, Yale University</a>;
   - 2:20 pm -- 2:30 pm: Break
   - 2:30 pm -- 3:10 pm: iPIPE: Bayesian Supervised Learning under Monotonicity with Applications in mHealth and Cancer Screening, <a href="../speakers/#speaker7">Ken Cheung, Columbia University</a>;
