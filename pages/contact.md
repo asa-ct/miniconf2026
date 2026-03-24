@@ -5,6 +5,6 @@ header: no
 permalink : "/contact/"
 ---
 
-+ For inqures about the conference, please contact Professor Kun Chen at kun.chen@uconn.edu.
++ For inqures about the conference, please contact Junxian Geng at junxian.geng@servier.com.
 
 + For issues related to website, please contact David Gruben at david.gruben@pfizer.com.
