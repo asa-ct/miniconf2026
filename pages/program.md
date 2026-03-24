@@ -35,6 +35,6 @@ All times are in EDT.
   - 2:20 pm -- 3:00 pm: <b>Ming-Hui Chen, University of Connecticut</b>  
     - Quantifying Prior Information via Kullback-Leibler Divergence: A New Perspective on Effective Sample Size  
 + 3:00 pm – 3:45 pm: Panel discussion on draft FDA guidance
-                     <b>"Use of Bayesian Methodology in Clinical Trials of Drug and Biological Products"</b> 
+  - <b>"Use of Bayesian Methodology in Clinical Trials of Drug and Biological Products"</b> 
 
 + 3:45 pm – 4:00 pm: Closing Remarks: <b>Junxian Geng, ASA CT Chapter Vice President</b>
