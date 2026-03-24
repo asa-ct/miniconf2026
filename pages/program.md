@@ -13,8 +13,8 @@ All times are in EDT.
 
 + 9:00 am -- 9:10 am: Opening Remarks:
 + <a>
-o	Birol Emir, ASA CT Chapter President<br> 
-o	Ming-Hui Chen, University of Connecticut 
+Birol Emir, ASA CT Chapter President 
+Ming-Hui Chen, University of Connecticut 
 </a>
 
 + 9:10 am -- 12:00 pm: Scientific Session I
