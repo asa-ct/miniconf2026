@@ -16,12 +16,15 @@ All times are in EDT.
   - <b>Ming-Hui Chen, University of Connecticut</b> 
 
 + 9:10 am -- 12:00 pm: Scientific Session I
-  - 9:10 am -- 9:50 am: Scaling Insights in Cancer Care with Machine Learning, <a href="../speakers/#speaker1">Will Shapiro, Flatiron Health</a>; 
-  - 9:50 am -- 10:30 am: Advancing Clinical Development through Real-World Data, AI and Machine Learning, <a href="../speakers/#speaker2">Harry Yang, Fate Therapeutics</a>; 
-  - 10:30 am -- 10:40 am: Break  
-  - 10:40 am -- 11:20 am: Methods and Applications of AI/ML in Drug Discover, <a href="../speakers/#speaker3">Christopher Langmead, Amgen</a>;
-  - 11:20 am -- 12:00 pm: FDA’s Perspective on the Use of AI/ML in Drug Development, <a href="../speakers/#speaker4">Tala Fakhouri, U.S. FDA</a>;  
-
+  - 9:10 am -- 9:50 am: <b>Sheraz Khan, Pfizer</b>
+    - Automating Clinical Trial Regulatory Documents with Agentic AI: Generation and Evaluation of SAPs, CSRs, and LoTs 
+  - 9:50 am -- 10:30 am: <b>Yanxun Xu, Johns Hopkins University</b>
+    - Closing the Loop in Evidence Synthesis: High-Fidelity IPD Reconstruction from Kaplan-Meier Plots and Robust Inference 
+  - 10:30 am -- 11:10 am: <b>Jingfeng Zhang, Insilicom LLC</b>
+    - From Hallucination to Trust: Building Knowledge Graphs for Reliable   
+  - 11:10 am -- 11:50 am: <b>Pending</b>
+    - Pending Title
+ 
 + 12:00 pm -– 1:00 pm: Lunch
 
 + 1:00 pm -- 3:45 pm: Scientific Session II
