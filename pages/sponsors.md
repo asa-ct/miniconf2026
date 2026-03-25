@@ -5,7 +5,7 @@ header: no
 permalink: /sponsors/
 ---
 
-+ [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)
++ [American Statistical Association](https://www.amstat.org/)
 
 <!--
 
