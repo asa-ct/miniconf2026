@@ -21,7 +21,7 @@ All times are in EDT.
   - 9:50 am -- 10:30 am: <b>Yanxun Xu, Johns Hopkins University</b>
     - Closing the Loop in Evidence Synthesis: High-Fidelity IPD Reconstruction from Kaplan-Meier Plots and Robust Inference 
   - 10:30 am -- 11:10 am: <b>Jingfeng Zhang, Insilicom LLC</b>
-    - From Hallucination to Trust: Building Knowledge Graphs for Reliable   
+    - From Hallucination to Trust: Building Knowledge Graphs for Reliable and Explainable AI in Biomedical Discovery   
   - 11:10 am -- 11:50 am: <b>Pending</b>
     - Pending Title
  
