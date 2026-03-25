@@ -17,8 +17,8 @@ Parking
 
 Here are several options:
 + 1194 Washington Blvd (full day rate is $12.00): 
-Please see https://stamford.uconn.edu/about/directions-and-parking/ for details.
+[Please see here (https://stamford.uconn.edu/about/directions-and-parking/)] for details.
 
 + Target parking directly across from the university on Broad Street:
-https://en.parkopedia.com/parking/broad_st_stamford/?arriving=202603251930&leaving=202603252130
+[Please see here for available lots.  https://en.parkopedia.com/parking/broad_st_stamford/?arriving=202603251930&leaving=202603252130)]
 Someone will pick you up at Reception to bring you to the ASA Mini Conference.
