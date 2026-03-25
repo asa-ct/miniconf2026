@@ -73,6 +73,54 @@ I will show how this infrastructure can accelerate biomedical discovery and drug
 
 ----
 
+<div id="speaker4" style="display: flex; flex-direction: column;">
+
+<h3> Automating Clinical Trial Regulatory Documents with Agentic AI: Generation and Evaluation of SAPs, CSRs, and LoTs
+</h3>
+
+<h4> Sheraz Khan, Pfizer </h4>
+
+<p>
+<img class="imgfloat" src="../docs/Khan.jpg"/>
+
+Dr. Sheraz Khan is a Senior Director and AQDS Group Lead at Pfizer, where he spearheads AI-driven innovation to optimize clinical trial processes. With over two decades of experience bridging computational science, drug development, and digital health, his work focuses on data-driven decision-making, process automation, and regulatory corpus generation. Prior to Pfizer, Dr. Khan served on the faculty at Harvard Medical School and led digital biomarker analysis for Biogen. A recognized thought leader, he holds a PhD in Computational and Applied Mathematics from École Polytechnique, France, two digital health patents, and has published over 75 high-impact papers.
+
+</p>
+
+
+<h4>Abstract</h4>
+
+Automating clinical regulatory documents like SAPs, CSRs, and LoTs offers a massive opportunity to accelerate drug development. This talk explores deploying Agentic AI workflows to autonomously synthesize and draft these highly structured documents while adhering to strict regulatory guidelines. Additionally, the session introduces a domain-specific evaluation framework designed to score AI-generated outputs for accuracy, traceability, and compliance, ensuring they meet the rigorous quality control standards of clinical trials.
+
+</div>
+
+----
+
+<div id="speaker5" style="display: flex; flex-direction: column;">
+
+<h3> BEAM: Bayesian Hybrid Design With Adaptive Sample Size Through Multisource Exchangeability Modeling
+</h3>
+
+<h4> Meizi Liu, Takeda</h4>
+
+<p>
+<img class="imgfloat" src="../docs/Liu.jpg"/>
+
+Meizi Liu is a Senior Manager in Statistics at Takeda, with experience across oncology, autoimmune, and neurodegenerative indications. She leads statistical strategies and supports key decision-making for different stages of clinical development programs. Her expertise includes Bayesian methods, adaptive trial designs, and dose optimization. She earned her Ph.D. in Biostatistics from the University of Chicago, where her dissertation focused on practical and advanced dose-finding designs. She has co-authored multiple publications in peer-reviewed journals on topics including dose optimization, Bayesian dynamic borrowing, and Bayesian adaptive designs in clinical trials.
+
+
+</p>
+
+
+<h4>Abstract</h4>
+
+Randomized controlled trials (RCTs) remain the gold standard for evaluating treatment efficacy, but they often face practical challenges, including high cost, long timelines, and difficulties in enrolling and retaining patients in control arms. Hybrid trial designs that incorporate external data, such as historical controls and real-world evidence, offer a promising approach to improve efficiency while maintaining rigor.
+In this talk, we introduce the Bayesian Hybrid Design with Adaptive Sample Size through Multisource Exchangeability Modeling (BEAM). The BEAM framework leverages a modified multisource exchangeability model to dynamically borrow information from multiple external data sources, while adaptively adjusting sample size throughout the trial. This approach allows for efficient use of available data while accounting for potential heterogeneity between current and historical sources.
+We present key design concepts, operating characteristics based on simulation studies, and practical considerations for implementation. Results demonstrate that BEAM can effectively control type I error, reduce bias, and maintain statistical power compared to traditional and alternative adaptive designs. A case study in ankylosing spondylitis is used to illustrate the application and potential impact of the proposed approach. 
+Overall, BEAM provides a flexible and efficient framework for clinical trial design, with the potential to reduce development time and improve decision-making in drug development.
+</div>
+
+----
 
 
 ----
