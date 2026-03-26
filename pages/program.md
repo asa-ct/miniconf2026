@@ -7,9 +7,9 @@ permalink: /program/
 
 All times are in EDT. 
 
-+ 8:30 am -- 9:30 am: Registration
++ 8:00 am -- 9:00 am: Registration
 
-+ 8:30 am -- 9:30 am: Refreshment
++ 8:00 am -- 9:00 am: Refreshment
 
 + 9:00 am -- 9:10 am: Opening Remarks:
   - <b>Birol Emir, ASA CT Chapter President</b> 
