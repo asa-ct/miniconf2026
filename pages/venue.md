@@ -5,7 +5,7 @@ header: no
 permalink: /venue/
 ---
 
-The conference will be hybrid, with in-person sessions held at the [University of Connecticut-Stamford Campus, 1 University Pl, Stamford, CT</b>](https://uconn.edu/wp-content/uploads/sites/11/2023/02/STAM_002_UConn-Stamford-Map-update-FY2023.pdf) in the [<b>DWTN 109 (A1)](https://classrooms.uconn.edu/classroom/dwtn-109-a1/) conference room.
+The conference will be hybrid, with in-person sessions held at the [<b>University of Connecticut-Stamford Campus, 1 University Pl, Stamford, CT</b>](https://uconn.edu/wp-content/uploads/sites/11/2023/02/STAM_002_UConn-Stamford-Map-update-FY2023.pdf) in the [<b>DWTN 109 (A1)</b>](https://classrooms.uconn.edu/classroom/dwtn-109-a1/) conference room.
 
 All sessions will be hybrid and broadcasted live via Zoom (or MS Teams). The Zoom (or MS Teams) link and password for virtual attendance will be sent to registrants before the event.
 
