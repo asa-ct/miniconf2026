@@ -20,4 +20,3 @@ Here are several options:
 
 + Target parking directly across from the university on Broad Street:
 [Please see here for available lots](https://en.parkopedia.com/parking/broad_st_stamford/?arriving=202603251930&leaving=202603252130).
-Someone will pick you up at Reception to bring you to the ASA Mini Conference.
