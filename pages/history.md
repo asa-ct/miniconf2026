@@ -10,7 +10,6 @@ The ASA CT Mini-Conference is an annual conference in Connecticut. Historical we
 <b>ASA CT Mini-Conference 2025:</b>
 - Date/Time: Friday, May 16, 2025
 - Location: Hybrid, with in-person sessions held at 47 College Street, Room 106A/B, Yale University, CT and all sessions broadcast live via Zoom.
-
 - Website: [https://asact.github.io/miniconf2025/index.html](https://asact.github.io/miniconf2025/index.html).
 
 <b>ASA CT Mini-Conference 2024:</b>
