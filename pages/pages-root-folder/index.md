@@ -7,7 +7,7 @@ homepage: true
 ---
 
 + **Date/Time:** Monday, May 11, 2026
-+ **Location:** The conference will be hybrid, with in-person sessions held at the Boehringer Ingelheim at Ridgefield, CT and all sessions broadcast live via Zoom.
++ **Location:** The conference will be hybrid, with in-person sessions held at DWTN 109 (A1), University of Connecticut-Stamford Campus, 1 University Pl, Stamford, CT; and all sessions broadcast live via Zoom.
 
 This annual event is organized by the [Connecticut Chapter of the American Statistical Association](https://community.amstat.org/connecticutchapter/home) (ASA-CT). We aim to 
 
