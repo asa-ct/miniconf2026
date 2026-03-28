@@ -17,4 +17,4 @@ permalink: /registration/
 We offer discounts for students and postdocs. To obtain a coupon code, [please contact us](mailto:ctchapterasa@gmail.com?Subject=I%20would%20like%20a%20coupon%20code%20for%20CT%20MiniConference).
 
 
-Registration is now open through [eventbrite](https://www.eventbrite.com/e/22nd-annual-asa-connecticut-chapter-mini-conference-tickets-837779831027?aff=oddtdtcreator). 
+Registration is now open through [eventbrite](https://www.eventbrite.com/e/1986076974695?aff=oddtdtcreator). 
