@@ -123,4 +123,25 @@ Overall, BEAM provides a flexible and efficient framework for clinical trial des
 ----
 
 
+<div id="speaker6" style="display: flex; flex-direction: column;">
+
+<h3> The FDA's Risk-Based Regulatory Perspective on AI in Drug Development
+</h3>
+
+<h4> Hussein Ezzeldin, U.S. Food and Drug Administration</h4>
+
+<p>
+<img class="imgfloat" src="../docs/Ezzeldin.jpg"/>
+Hussein Ezzeldin is a Senior Public Health Advisor at the US Food and Drug Administration. 
+
+
+</p>
+
+
+<h4>Abstract</h4>
+
+The integration of Artificial Intelligence and Machine Learning (AI/ML) into drug and biologics development is accelerating, with the FDA's, center for Drugs (CDER) and center for Biologics (CBER), having now received over 1,000 submissions incorporating AI/ML—a number that has shown a constant increase in recent years. This presentation will provide the FDA's perspective on this transformative shift, sharing data on the landscape of AI/ML submissions and highlighting key trends, including a notable concentration of applications in the clinical development phase.
+We will detail the FDA's proactive and collaborative approach to regulation, which is anchored in a risk-based framework tailored to the specific context of use. This talk will explain how the regulatory evaluation of AI/ML is calibrated based on the model's potential influence and the consequence of its output. Furthermore, we will highlight international collaboration initiatives aimed at further advancing good AI/ML practices in drug development. Finally, we will emphasize the critical importance of early sponsor engagement with the FDA to successfully navigate this evolving landscape, encouraging innovation while upholding the fundamental evidentiary standards for ensuring safety and efficacy.
+</div>
+
 ----
