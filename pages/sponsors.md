@@ -5,6 +5,7 @@ header: no
 permalink: /sponsors/
 ---
 
++ [Yale University](http://www.stat.yale.edu/welcome.html)
 + [American Statistical Association](https://www.amstat.org/)
 
 <!--
