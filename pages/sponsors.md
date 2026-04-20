@@ -5,7 +5,7 @@ header: no
 permalink: /sponsors/
 ---
 
-+ [Department of Biostatistics, Yale School of Public Health](https://ysph.yale.edu/)
++ [Department of Biostatistics, Yale School of Public Health](https://ysph.yale.edu/research/department-research/biostatistics/)
 + [American Statistical Association](https://www.amstat.org/)
 
 <!--
