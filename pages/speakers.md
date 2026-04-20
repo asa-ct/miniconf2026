@@ -132,9 +132,7 @@ Overall, BEAM provides a flexible and efficient framework for clinical trial des
 
 <p>
 <img class="imgfloat" src="../docs/Ezzeldin.jpg"/>
-Hussein Ezzeldin is a Senior Public Health Advisor at the US Food and Drug Administration. 
-
-
+Hussein Ezzeldin: Dr. Ezzeldin is a Senior Public Health Advisor in the Office of Medical Policy at the Center for Drug Evaluation and Research (CDER). He supports various initiatives related to the use of real-world data and evidence, digital health technologies, and artificial intelligence in drug development. Dr. Ezzeldin has extensive experience in postmarket surveillance and has contributed to multiple agency efforts advancing the use of innovative data sources and technologies in regulatory decision-making.
 </p>
 
 
