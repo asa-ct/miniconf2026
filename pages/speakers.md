@@ -143,3 +143,26 @@ We will detail the FDA's proactive and collaborative approach to regulation, whi
 </div>
 
 ----
+
+<div id="speaker7" style="display: flex; flex-direction: column;">
+
+<h3> Development of the recent FDA CDER/CBER Bayesian draft guidance
+</h3>
+
+<h4> James Travis, U.S. Food and Drug Administration</h4>
+
+<p>	
+<img class="imgfloat" src="../docs/Travis.jpg"/>
+James Travis is a master mathematical statistician in the Division of Biometrics II in the US FDA Center for Drug Evaluation and Research. He is the technical lead for the pediatric and maternal health scientists and has been supporting pediatric drug development since joining the Pediatric Review Committee in 2017. He has worked extensively on applications in the complex and innovative trial design program and led the development of the FDA draft guidance “Use of Bayesian Methodology in Clinical Trials of Drug and Biological Products”.
+</p>
+
+
+<h4>Abstract</h4>
+Bayesian methods have seen increasing usage through the complex innovative trial design program and more generally in pediatric and rare disease trials and to ease their implementation and feasibility, FDA committed to publishing a draft guidance to support their use under the sixth reauthorization of the Prescription Drug User Fee Act (PDUFA). This draft guidance, “Use of Bayesian Methodology in Clinical Trials of Drug and Biological Products,” was published in January 2026. The draft guidance discusses many issues related to the use of Bayesian methods including success criteria, operating characteristics, prior distributions and expectations for documenting and reporting Bayesian analyses. 
+In this presentation I will review some of the key considerations in this draft guidance and discuss some of the case examples that motivated the considerations.
+
+</div>
+
+
+
+
