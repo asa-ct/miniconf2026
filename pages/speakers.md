@@ -168,8 +168,7 @@ In this presentation I will review some of the key considerations in this draft 
 
 <div id="speaker8" style="display: flex; flex-direction: column;">
 
-<h3> AI-powered Bayesian Generative Modeling for Statistical Inference
-</h3>
+<h3> AI-powered Bayesian Generative Modeling for Statistical Inference</h3>
 
 <h4> Qiao Liu, PhD, Yale University</h4>
 
@@ -184,5 +183,4 @@ Modern statistical learning increasingly requires methods that can handle comple
 By learning low-dimensional latent representations of confounding structure and performing Bayesian latent-variable inference, the model enables causal effect estimation with uncertainty quantification, including individualized and average treatment effects. I will then move to a more general setting that learns the joint distribution of complex data and supports arbitrary conditional inference after training via BGM. This “train once, infer anywhere” paradigm allows a single fitted model to address multiple tasks, such as prediction, missing-data imputation, and multimodal inference, without retraining for each conditioning structure. Together, these models illustrate how Bayesian generative modeling (BGM) can unify modern AI and statistics by combining flexible neural architectures with statistically principled inference.
 
 </div>
-
 
