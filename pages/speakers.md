@@ -164,5 +164,25 @@ In this presentation I will review some of the key considerations in this draft 
 </div>
 
 
+----
+
+<div id="speaker8" style="display: flex; flex-direction: column;">
+
+<h3> AI-powered Bayesian Generative Modeling for Statistical Inference
+</h3>
+
+<h4> Qiao Liu, PhD, Yale University</h4>
+
+<p>	
+<img class="imgfloat" src="../docs/LiuQ.jpg"/>
+Dr. Qiao Liu is an Assistant Professor in the Department of Biostatistics at Yale University. He is also a core faculty member of Yale Computational Biology and Biomedical Informatics (CBB) Program and Yale Human Genome Sciences (HGS) Track. His research lies at the intersection of statistics, AI, and computational biology, where he develops practical statistical and AI-driven tools with both theoretical and applied significance. His work leverages advances in generative AI to address high-dimensional statistical challenges, including Bayesian computation and causal inference, with broad applications in single-cell genomics, multi-omics data integration, pharmacogenomics, and genomic large language models. Dr. Liu has authored over 40 peer-reviewed publications in leading international journals and conferences, including first-/corresponding-author papers in Nature Communications, Nature Machine Intelligence, PNAS, JASA. His contributions have been recognized with prestigious honors, including the NIH Pathway to Independence Award.
+</p>
+
+
+<h4>Abstract</h4>
+Modern statistical learning increasingly requires methods that can handle complex, high-dimensional data while providing interpretable inference and principled uncertainty quantification. In this talk, I will present a Bayesian generative modeling (BGM) framework for statistical inference. I will first introduce a causal inference approach via Bayesian generative modeling for estimating causal effects from observational data with high-dimensional covariates. 
+By learning low-dimensional latent representations of confounding structure and performing Bayesian latent-variable inference, the model enables causal effect estimation with uncertainty quantification, including individualized and average treatment effects. I will then move to a more general setting that learns the joint distribution of complex data and supports arbitrary conditional inference after training via BGM. This “train once, infer anywhere” paradigm allows a single fitted model to address multiple tasks, such as prediction, missing-data imputation, and multimodal inference, without retraining for each conditioning structure. Together, these models illustrate how Bayesian generative modeling (BGM) can unify modern AI and statistics by combining flexible neural architectures with statistically principled inference.
+
+</div>
 
 
