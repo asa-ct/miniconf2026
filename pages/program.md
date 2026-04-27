@@ -19,12 +19,12 @@ All times are in EDT.
   - 9:10 am -- 9:50 am: <b>Sheraz Khan, Pfizer</b>
     - Automating Clinical Trial Regulatory Documents with Agentic AI: Generation and Evaluation of SAPs, CSRs, and LoTs 
   - 9:50 am -- 10:30 am: <b>Hussein Ezzeldin, US Food and Drug Administration</b>
-    - 	The FDA’s Risk-Based Regulatory Perspective on AI in Drug Development
+    - The FDA’s Risk-Based Regulatory Perspective on AI in Drug Development
   - 10:30 am -- 10:40 am: <b>Break</b> 
   - 10:40 am -- 11:20 am: <b>Jingfeng Zhang, Insilicom LLC</b>
     - From Hallucination to Trust: Building Knowledge Graphs for Reliable and Explainable AI in Biomedical Discovery   
   - 11:20 am -- 12:00 N: <b>Yanxun Xu, Johns Hopkins University</b>
-    - 	Closing the Loop in Evidence Synthesis: High-Fidelity IPD Reconstruction from Kaplan-Meier Plots and Robust Inference
+    - Closing the Loop in Evidence Synthesis: High-Fidelity IPD Reconstruction from Kaplan-Meier Plots and Robust Inference
  
 + 12:00 N -– 1:00 pm: Lunch
 
