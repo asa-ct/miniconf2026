@@ -15,7 +15,7 @@ All times are in EDT.
   - <b>Birol Emir, ASA CT Chapter President</b> 
   - <b>Ming-Hui Chen, University of Connecticut</b> 
 
-+ 9:10 am -- 12:00 pm: Scientific Session I
++ 9:10 am -- 12:00 N: Scientific Session I
   - 9:10 am -- 9:50 am: <b>Sheraz Khan, Pfizer</b>
     - Automating Clinical Trial Regulatory Documents with Agentic AI: Generation and Evaluation of SAPs, CSRs, and LoTs 
   - 9:50 am -- 10:30 am: <b>Hussein Ezzeldin, US Food and Drug Administration</b>
